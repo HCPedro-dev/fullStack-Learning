@@ -1,0 +1,1 @@
+// escrever uma função que recebe um objeto como primeiro parametro e, como segundo parametro, o nome de uma propriedade contida nesse objeto. Em seguida, retorne uma cópia desse objeto sem propriedade especificada no segundo parametro
